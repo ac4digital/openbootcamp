@@ -11,5 +11,6 @@ public class Main {
         SmartWatch Band7 = new SmartWatch(50,20,20,"Huawei","Band 7","Snapdragon",1000000, "Acero");
 
         System.out.println(Y9.cargarBateria(100));
+        System.out.println(Band7.cargarBateria(50));
     }
 }
